@@ -1,0 +1,8 @@
+name: sklearn-tutorial
+
+dependencies:
+  - python
+  - scikit-learn
+  - pandas
+  - seaborn
+  - jupyter
