@@ -1,6 +1,13 @@
-# EuroSciPy 2019 - scikit-learn tutorial
+# PyConDE & PyData Berlin 2022 - scikit-learn tutorial
 
 Some intro [slides](https://docs.google.com/presentation/d/1xPf8vN9-pwZkAq28gbghJ9IWaNO4w-ZKO59193BWs34/edit?usp=sharing)
+
+## Follow the tutorial online
+
+- Launch an online notebook environment using: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glemaitre/pydata_berlin_2022_scikit_learn_tutorial/main)
+
+You need an internet connection but you will not have to install any package
+locally.
 
 ## Running the tutorial locally
 
@@ -14,6 +21,7 @@ The tutorials will require the following packages:
 * pandas
 * matplotlib
 * seaborn
+* shap
 
 ### Local install
 
